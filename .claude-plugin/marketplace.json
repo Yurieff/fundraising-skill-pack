@@ -1,0 +1,20 @@
+{
+  "name": "yurieff",
+  "owner": {
+    "name": "Nikita Yuriev",
+    "email": "fundraising.skill@gmail.com",
+    "url": "https://github.com/Yurieff"
+  },
+  "metadata": {
+    "description": "Nikita Yuriev's Claude Code plugins for founders and investors."
+  },
+  "plugins": [
+    {
+      "name": "fundraise",
+      "source": "./",
+      "description": "Check a startup the way a fund analyst would, before it raises: thesis fit, market size, competitors, metrics, readiness.",
+      "version": "0.6.2",
+      "category": "productivity"
+    }
+  ]
+}

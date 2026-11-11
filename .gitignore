@@ -1,0 +1,13 @@
+# OS and editor noise
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# Never commit run outputs or company material
+raw/
+
+# Never commit secrets
+.env
+*.key

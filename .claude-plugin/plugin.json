@@ -1,6 +1,6 @@
 {
   "name": "fundraise",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Claude Code skills that check a startup the way a fund analyst would, before it raises, in five steps: thesis fit with chosen funds; market size with a capacity ceiling; competitors with prices, funding and mergers and acquisitions comparables; revenue metrics; and a readiness check. A sixth skill, revenue-chart, charts revenue month by month from investor updates.",
   "author": {
     "name": "Nikita Yuriev",
@@ -9,6 +9,6 @@
   },
   "homepage": "https://github.com/Yurieff/fundraising-skill-pack",
   "repository": "https://github.com/Yurieff/fundraising-skill-pack",
-  "license": "CC-BY-NC-4.0",
+  "license": "MIT",
   "keywords": ["fundraising", "venture capital", "startup", "market sizing", "TAM", "competitors", "due diligence"]
 }

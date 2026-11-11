@@ -193,5 +193,5 @@ Nikita Yuriev – venture investor and startup mentor. For contacts – [fundrai
 
 ## License
 
-[CC BY-NC 4.0](LICENSE) – free to use, share and adapt for non-commercial purposes, with
-attribution. For commercial use, contact the author.
+[MIT](LICENSE) – free to use, change and share, including commercially, with the copyright
+notice kept.
